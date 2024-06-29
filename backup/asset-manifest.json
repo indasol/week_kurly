@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/week_kurly/static/css/main.9cd79c9d.css",
+    "main.js": "/week_kurly/static/js/main.eaf52596.js",
+    "index.html": "/week_kurly/index.html",
+    "main.9cd79c9d.css.map": "/week_kurly/static/css/main.9cd79c9d.css.map",
+    "main.eaf52596.js.map": "/week_kurly/static/js/main.eaf52596.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9cd79c9d.css",
+    "static/js/main.eaf52596.js"
+  ]
+}
